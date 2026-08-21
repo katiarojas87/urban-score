@@ -1,4 +1,4 @@
-gi```markdown
+```markdown
 ## Test one
 1) Luxury = expensive vs cheap
 2) Brightness = bright vs dark
